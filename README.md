@@ -1,6 +1,4 @@
 # the-data-lab
-# the-data-lab
-
 
 ## Data Culture Project | Fill in a Paper Spreadsheet
 
@@ -76,6 +74,52 @@ Data Game | ou have a space your audience can move around in
 What Do You Get in a Bag of Skittles?
 
 Kids will go through the data collection experience and explore color variance across the bags of candy.
+
+----
+# Data learning activities
+
+## activity one (create stories)
+
+Participants spend time poking at an actual dataset to find a simple story, then sketch their story and play with different ways of telling it in a fun, visual storybook form.
+
+### requirements
+
+1. Paper
+2. Crayons
+3. Take examples from tableu data.
+4. https://databasic.io/static/files/examples/storybook1.pdf
+
+### Sources
+[storybook data](https://databasic.io/en/culture/storybook)
+
+### Examples
+
+**Title:** *Which Cat Breed is Most Popular?*  
+
+Once upon a time, in a cozy little town, there was a cat lover named Mia. She wanted to know which cat breeds were the most popular among her friends. She asked 100 people about their favorite breeds and made a pie chart!  
+
+**Pie Chart:**  
+- **Persian (30%)** – Fluffy and calm  
+- **Siamese (25%)** – Talkative and sleek  
+- **Maine Coon (20%)** – Big and friendly  
+- **Bengal (15%)** – Wild-looking and playful  
+- **Sphynx (10%)** – Hairless and warm  
+
+*Fun Fact:* Persian cats are the oldest known breed!  
+
+**Title:** *How Old Are Our Furry Friends?*  
+
+Mia also wanted to learn about the ages and genders of cats in her neighborhood. She collected data from 50 cats and made a bar chart!  
+
+**Bar Chart (X-axis: Age Groups | Y-axis: Number of Cats)**  
+- **Kittens (0-1 year):** 15 (♀: 8 | ♂: 7)  
+- **Young Adults (2-4 years):** 20 (♀: 9 | ♂: 11)  
+- **Adults (5-10 years):** 10 (♀: 6 | ♂: 4)  
+- **Seniors (11+ years):** 5 (♀: 3 | ♂: 2)  
+
+*Did You Know?* Female cats (♀) tend to live longer than males (♂)!  
+
+
 
 After this activity, the budding data explorer should be able to:
 
